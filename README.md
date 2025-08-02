@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nayana Madhu  
 
-<!--
-**NayanaMadhu2001/NayanaMadhu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postgraduate in **M.Sc. Physics**, currently pursuing **M.Tech in Optoelectronics and Laser Technology** at **CUSAT (International School of Photonics)**.  
 
-Here are some ideas to get you started:
+## 🔬 Research & Technical Interests  
+- **Beam Scanning** based on **Composite Right-Left Handed Transmission Line (CRLH-TL)**  
+- **Substrate Integrated Waveguide (SIW)** design & characterization  
+- **LWA (Leaky Wave Antenna)** development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies  
+- **CST Microwave Studio**, **HFSS**  
+- **Python** (Data Analysis & Simulations)  
+- **Anritsu MS-2038C**, **Vector Network Analyzer (VNA)**  
+- **Origin Software**  
+- **MATLAB**  
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+## 🌐 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [Email](mailto:YOUR-EMAIL)

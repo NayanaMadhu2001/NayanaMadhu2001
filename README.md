@@ -30,7 +30,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanaMadhu2001&layout=compact&theme=tokyonight)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NayanaMadhu2001&theme=tokyo-night)
+
 
 ---
 

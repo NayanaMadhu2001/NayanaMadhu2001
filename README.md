@@ -16,11 +16,11 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayanaMadhu2001&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanaMadhu2001&layout=compact&theme=tokyonight)  
 
 ## 🌐 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- [Email](mailto:YOUR-EMAIL)
+- [LinkedIn](www.linkedin.com/in/nayana-madhu-deshpande)  
+- [Email](mailto:nayanamadhu2023@gmail.com)
